@@ -1,0 +1,32 @@
+[
+  {
+    "id": 4,
+    "title": "pay electricity bill",
+    "description": "need to pay electricity on  time",
+    "priority": "HIGH",
+    "dueDate": "2025-11-25",
+    "status": "PENDING",
+    "createdAt": "2025-11-25T09:46:31.8998376",
+    "completedAt": ""
+  },
+  {
+    "id": 5,
+    "title": "complete java project",
+    "description": "java project  completed",
+    "priority": "MEDIUM",
+    "dueDate": "2025-11-29",
+    "status": "COMPLETED",
+    "createdAt": "2025-11-25T09:51:48.5377694",
+    "completedAt": "2025-11-25T10:16:01.0020867"
+  },
+  {
+    "id": 6,
+    "title": "prepare for internals",
+    "description": "",
+    "priority": "LOW",
+    "dueDate": "2025-11-20",
+    "status": "COMPLETED",
+    "createdAt": "2025-11-25T09:52:51.5978737",
+    "completedAt": "2025-11-25T09:53:40.6609658"
+  }
+]
